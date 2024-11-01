@@ -1,0 +1,12 @@
+# Ignore node_modules if using any local development
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore local environment configuration
+.env
